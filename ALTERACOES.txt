@@ -1,0 +1,10 @@
+JOGA NO PEITO — ALTERAÇÕES APLICADAS
+- Banner principal: mantido.
+- 9 banners das ligas + 1 da NBA: substituídos pelas URLs fornecidas.
+- Banner da Fórmula 1: nova imagem; catálogo original preservado.
+- RESTO DO MUNDO: +2 clubes no final (Al-Nassr e Al-Hilal), com links fornecidos.
+- OUTRAS COLEÇÕES: novo banner, 8 itens reais com imagens e catálogos.
+- NOVA SEÇÃO 02: permanece cadastrada e oculta enquanto os dados estiverem vazios.
+- Coleções RETRÔ, KIT INFANTIL, FEMININAS e JOGADOR: links dos quatro catálogos atualizados; imagens, posição e formato circular preservados.
+- Brasileirão: ordem Rio, São Paulo, demais; links e escudos preservados.
+- Contatos, layout, carrosséis, pesquisa e menu preservados.

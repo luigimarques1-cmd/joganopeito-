@@ -1,0 +1,67 @@
+JOGA NO PEITO — URLS QUE AINDA FALTAM
+===================================
+
+1) NOVA SEÇÃO 01 — OUTRAS COLEÇÕES
+Banner e oito coleções já configurados. Opcional: para completar os 12 previstos,
+envie os quatro itens abaixo. Não foram mostrados itens fictícios.
+
+09. NOME:
+    URL DA IMAGEM 1:1:
+    URL DO CATÁLOGO:
+10. NOME:
+    URL DA IMAGEM 1:1:
+    URL DO CATÁLOGO:
+11. NOME:
+    URL DA IMAGEM 1:1:
+    URL DO CATÁLOGO:
+12. NOME:
+    URL DA IMAGEM 1:1:
+    URL DO CATÁLOGO:
+
+2) NOVA SEÇÃO 02 — AINDA OCULTA, AGUARDANDO CONTEÚDO
+NOME DA SEÇÃO:
+URL DO BANNER HORIZONTAL (1080 x 608):
+
+01. NOME:
+    URL DA IMAGEM 1:1:
+    URL DO CATÁLOGO:
+02. NOME:
+    URL DA IMAGEM 1:1:
+    URL DO CATÁLOGO:
+03. NOME:
+    URL DA IMAGEM 1:1:
+    URL DO CATÁLOGO:
+04. NOME:
+    URL DA IMAGEM 1:1:
+    URL DO CATÁLOGO:
+05. NOME:
+    URL DA IMAGEM 1:1:
+    URL DO CATÁLOGO:
+06. NOME:
+    URL DA IMAGEM 1:1:
+    URL DO CATÁLOGO:
+07. NOME:
+    URL DA IMAGEM 1:1:
+    URL DO CATÁLOGO:
+08. NOME:
+    URL DA IMAGEM 1:1:
+    URL DO CATÁLOGO:
+09. NOME:
+    URL DA IMAGEM 1:1:
+    URL DO CATÁLOGO:
+10. NOME:
+    URL DA IMAGEM 1:1:
+    URL DO CATÁLOGO:
+11. NOME:
+    URL DA IMAGEM 1:1:
+    URL DO CATÁLOGO:
+12. NOME:
+    URL DA IMAGEM 1:1:
+    URL DO CATÁLOGO:
+
+3) FÓRMULA 1 — OPCIONAL
+URL NOVA DO CATÁLOGO (só se desejar trocar):
+
+OBS.: O BANNER PRINCIPAL, os 10 banners horizontais e o novo banner de F1
+já estão configurados com as URLs informadas. Os dois novos clubes de
+RESTO DO MUNDO também já foram adicionados.
